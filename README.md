@@ -3,8 +3,8 @@
 my first try...
 
 # This is an h1 tag
-## This is an <h2> tag
-### This is an <h3> tag
+## This is an h2 tag
+### This is an h3 tag
 
 *one star for italic* test1
 _This is also italic_ test2
@@ -27,6 +27,7 @@ Unordered Lists:
   * that is item 2b
    
 Ordered Lists:
+
 1. Item 1
 2. Item 2
   * Item 2a
@@ -49,6 +50,7 @@ I think you should use an
 '<addr>' element here instead.
 
 Syntax highlighting:
+    
     function fancyAlert(arg) {
         if(arg) {
             $.facebox({div:'#foo'})

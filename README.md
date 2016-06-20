@@ -63,7 +63,9 @@ Python code without syntax highlight:
 def foo():
     if not bar:
         return True
-        
+
+Python code with syntax highlight (4 spaces):
+
     def foo():
         if not bar:
             return True

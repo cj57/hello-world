@@ -50,7 +50,8 @@ I think you should use an
 '<addr>' element here instead.
 
 Syntax highlighting:
-    
+
+    //ident the code by 4 spaces?
     function fancyAlert(arg) {
         if(arg) {
             $.facebox({div:'#foo'})
@@ -61,4 +62,7 @@ Python code without syntax highlight:
 def foo():
     if not bar:
         return True
-    
+        
+    def foo():
+        if not bar:
+            return True

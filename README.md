@@ -2,7 +2,7 @@
 =============
 my first try...
 
-# This is an <h1> tag
+# This is an h1 tag
 ## This is an <h2> tag
 ### This is an <h3> tag
 
@@ -50,13 +50,13 @@ I think you should use an
 
 Syntax highlighting:
     function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
+        if(arg) {
+            $.facebox({div:'#foo'})
+        }
     }
     
 Python code without syntax highlight:
 def foo():
-  if not bar:
-    return True
+    if not bar:
+        return True
     

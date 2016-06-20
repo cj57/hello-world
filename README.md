@@ -59,6 +59,7 @@ Syntax highlighting:
     }
     
 Python code without syntax highlight:
+
 def foo():
     if not bar:
         return True

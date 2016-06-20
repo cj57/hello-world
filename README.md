@@ -6,7 +6,8 @@ my first try...
 - this is item 2
 - this is item 3
 
-*one star for italic*
+*one star for italic* test1
+test2
 
 **two stars for bold**
 test
